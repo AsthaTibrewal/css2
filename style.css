@@ -1,0 +1,26 @@
+
+.parent
+{
+    text-align: center;
+    display: flex;
+  
+    margin: auto;
+    width: 50%;
+
+}
+.left
+{
+    
+    width: 50%;
+    margin: auto;
+   
+}
+.left-container{
+    display: inline-flex;
+}
+.right
+{
+    
+    width: 50%;
+    margin: auto;
+}
